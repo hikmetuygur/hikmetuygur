@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img align="right" alt="Coding" width="350" src="https://developer.apple.com/news/images/og/apple-developer-og.png"/>
+<img align="right" alt="Coding" width="400" src="https://developer.apple.com/news/images/og/apple-developer-og.png"/>
 <a href="https://twitter.com/huygurdev" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/421/879/png-transparent-twitter-logo-social-media-iphone-organization-logo-twitter-computer-network-leaf-media.png" alt="huygurdev" height="30" width="30"/>Twitter</a>
 
 <a href="https://medium.com/@hikmetuygur" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" alt="@hikmetuygur" height="30" width="30" />Medium</a>
