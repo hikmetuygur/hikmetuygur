@@ -5,7 +5,7 @@
   
 <p align="left"> <a href="https://twitter.com/iamleviyn" target="blank"><img src="https://img.shields.io/twitter/follow/iamleviyn?logo=twitter&style=for-the-badge" alt="iamleviyn" /></a> </p>  
   
-- 🔭 I’m currently working on **Portfolio project**  
+- 🔭 I’m currently working on **JavaScript30**  
   
 - 📫 How to reach me **uygurhikmet@gmail.com**  
   
